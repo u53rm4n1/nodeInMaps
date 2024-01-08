@@ -1,0 +1,33 @@
+{
+    "links": [
+      {
+        "srcNode": "N1",
+        "destNode": "N2"
+      },
+      {
+        "srcNode": "N2",
+        "destNode": "N3"
+      },
+      {
+        "srcNode": "N3",
+        "destNode": "N1"
+      }
+    ],
+    "nodes": [
+      {
+        "name": "N1",
+        "lat": 13.08,
+        "lng": 80.27
+      },
+      {
+        "name": "N2",
+        "lat": 12.52,
+        "lng": 78.21
+      },
+      {
+        "name": "N3",
+        "lat": 11.66,
+        "lng": 78.14
+      }
+    ]
+  }
